@@ -135,3 +135,5 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+  [markup.goldmark.parser.attribute]
+    block = true
