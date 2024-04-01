@@ -3,7 +3,7 @@ title: "Publications"
 layout: page
 ---
 
-## TODO_Publications
+## Publications
 
 1. **Davis, M.R.** and Brown, M.E. (2024). "Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa". The Planetary Science Journal (**accepted**).
 1. **Davis, M.R.**, Brown, M.E., & Trumbo, S.K. (2023). ["The Spatial Distribution of the Unidentified 2.07 μm Absorption Feature on Europa and Implications for its Origin"](https://iopscience.iop.org/article/10.3847/PSJ/aced96/meta). The Planetary Science Journal, 4(8), 148.
