@@ -14,11 +14,11 @@ hasCJKLanguage = true
 home = ["HTML", "RSS"]
 
 [params]
-  header_image = "img/post-bg-coffee.jpeg"
+  header_image = "img/europa.jpeg"
   SEOTitle = "Ryleigh Davis, Planetary Scientist"
   description = "Personal & Professional website of Ryleigh Davis, Planetary Scientist."
   keyword = "Ryleigh Davis, Planetary Science, Astronomy, Caltech, Solar System, Europa, Callisto, JWST"
-  slogan = "Planetry Science Ph.D. Candidate"
+  slogan = "Planetary Science Ph.D. Candidate"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
