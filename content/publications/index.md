@@ -5,6 +5,7 @@ layout: page
 
 ## Publications
 
+1. Belyakov, M., **Davis, M.R.**, Milby, Z., Wong, I., and Brown, M.E. (2024). "JWST Spectrophotometry of the Small Satellites of Uranus and Neptune". The Planetary Science Journal (**submitted**).
 1. **Davis, M.R.** and Brown, M.E. (2024). "Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa". The Planetary Science Journal (**accepted**).
 1. **Davis, M.R.**, Brown, M.E., & Trumbo, S.K. (2023). ["The Spatial Distribution of the Unidentified 2.07 μm Absorption Feature on Europa and Implications for its Origin"](https://iopscience.iop.org/article/10.3847/PSJ/aced96/meta). The Planetary Science Journal, 4(8), 148.
 1. Kunimoto, M., Vanderburg, A., Huang, C.X., **Davis, M.R.**, Affer, L., Cameron, A.C., ... & Rose, M.E. (2023). ["TOI-4010: A System of Three Large Short-period Planets with a Massive Long-period Companion"](https://iopscience.iop.org/article/10.3847/1538-3881/acd537/meta). The Astronomical Journal, 166(1), 7.
