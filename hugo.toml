@@ -118,6 +118,9 @@ home = ["HTML", "RSS"]
   [[params.addtional_menus]]
   title =  "About"
   href =  "/about/"
+  [[params.addtional_menus]]
+  title =  "Contact"
+  href =  "/contact/"
 
 [outputFormats.Algolia]
 baseName = "algolia"
