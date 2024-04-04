@@ -1,6 +1,6 @@
 baseURL = 'https://ryleighdavis.github.io'
 languageCode = 'en-us'
-title = 'M. Ryleigh Davis'
+title = 'Ryleigh Davis'
 theme = 'hugo-theme-cleanwhite'
 
 # Enable comments by entering your Disqus shortname
