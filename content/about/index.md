@@ -13,3 +13,5 @@ I grew up in Chandler Arizona with a love for the sunshine, all things outdoors,
 {{< figure src="../img/RyleighTelescope.jpg" width="0.5" alt="Ryleigh Davis looking up at the night sky next to a large telescope. There is a galaxy projected onto the telescope." class="left" >}} 
 
 Outside of work, I enjoy coffee dates with friends, hiking & rock climbing, and spending time with my husband Erik, daughter Sophie, and our two cats.
+
+
