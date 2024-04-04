@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-{{< figure src="../img/headshot2.jpg" width="0.5" alt="Headshot of Ryleigh Davis" class="left" >}} 
+{{< figure src="../img/headshot.jpg" width="0.5" alt="Headshot of Ryleigh Davis" class="left" >}} 
 
 Hello! I am a 4th year planetary science Ph.D. candidate at Caltech working with Dr. [Mike Brown](https://mikebrown.caltech.edu/). I am interested in studying the compositions of icy moons throughout the solar system, and the surface processes which affect them. I use ground- and space-based telescope spectroscopy, ranging from UV through mid-infrared wavelengths, to explore these worlds.
 
