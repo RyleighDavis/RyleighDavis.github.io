@@ -9,7 +9,7 @@ layout: page
 
 Coming soon! See our accepted Cycle 3 [JWST Program](https://www.stsci.edu/jwst/science-execution/program-information?id=4687).
 
-## Reconstructing the Histories of the Ice Giant Systems through Small Satellite Observations with JWST
+## Reconstructing the Histories of the Ice Giant Systems through Small Satellite Observations
 
 Coming soon! See our accepted Cycle 3 [JWST program](https://www.stsci.edu/jwst/science-execution/program-information?id=4645).
 
