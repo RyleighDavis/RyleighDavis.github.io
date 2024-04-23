@@ -5,6 +5,8 @@ layout: page
 
 # My Research
 
+I am broady interested in understanding the compostions of icy moons throughout the solar system, and what this can tell us about the formation of the gas and ice giant systems. I use ground- and space- based telescopes, alongside laboratory spectra to explore these icy worlds. See below for info on some of my recent work!
+
 ## Callisto's Ancient Surface
 
 Coming soon! See our accepted Cycle 3 [JWST Program](https://www.stsci.edu/jwst/science-execution/program-information?id=4687).
