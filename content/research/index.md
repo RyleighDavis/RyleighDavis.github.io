@@ -24,7 +24,7 @@ Europa's trailing hemisphere surface composition reflects a complex interplay be
 {{<rawhtml>}}
 <figure>
   <div class="image-container">
-    <img src="/img/SpectralMap_withCaption.png" alt="Paper figure containing sulfuric acid, salt, and water maps of Pwyll and Manannan crater.">
+    <img src="/img/SpectralMap_withCaption.png" alt="Paper figure containing sulfuric acid, salt, and water-ice maps of Pwyll and Manannan crater.">
   </div>
 </figure>
 {{</rawhtml>}}
