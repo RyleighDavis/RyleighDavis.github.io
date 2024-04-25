@@ -6,7 +6,7 @@ layout: page
 ## Publications
 
 1. Belyakov, M., **Davis, M.R.**, Milby, Z., Wong, I., and Brown, M.E. (2024). ["JWST Spectrophotometry of the Small Satellites of Uranus and Neptune"](https://arxiv.org/abs/2404.06660). The Planetary Science Journal (**accepted**).
-1. **Davis, M.R.** and Brown, M.E. (2024). []"Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa"](https://arxiv.org/abs/2404.15474). The Planetary Science Journal (**accepted**).
+1. **Davis, M.R.** and Brown, M.E. (2024). ["Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa"](https://arxiv.org/abs/2404.15474). The Planetary Science Journal (**accepted**).
 1. **Davis, M.R.**, Brown, M.E., & Trumbo, S.K. (2023). ["The Spatial Distribution of the Unidentified 2.07 μm Absorption Feature on Europa and Implications for its Origin"](https://iopscience.iop.org/article/10.3847/PSJ/aced96/meta). The Planetary Science Journal, 4(8), 148.
 1. Kunimoto, M., Vanderburg, A., Huang, C.X., **Davis, M.R.**, Affer, L., Cameron, A.C., ... & Rose, M.E. (2023). ["TOI-4010: A System of Three Large Short-period Planets with a Massive Long-period Companion"](https://iopscience.iop.org/article/10.3847/1538-3881/acd537/meta). The Astronomical Journal, 166(1), 7.
 1. Trumbo, S.K., **Davis, M.R.**, Cassese, B., and Brown, M. E. (2022). ["Spectroscopic Mapping of Io’s Surface with HST/STIS: SO2 Frost, Sulfur Allotropes, and Large-scale Compositional Patterns"](https://iopscience.iop.org/article/10.3847/PSJ/aca46d/meta), The Planetary Science Journal, 3(12), 272.
