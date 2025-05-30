@@ -27,12 +27,22 @@
                 {{ range $categories }}
                     {{ $category := . }}
                     <h2>{{ $category }}</h2>
+                    {{ $categoryDesc := "" }}
+                    {{ if eq $category "Irradiation Chemistry on Europa" }}
+                        {{ $categoryDesc = "Europa's trailing hemisphere surface composition reflects a complex interplay between endogenic material present within the recently geologically active chaos terrains and linea (possibly sourced from the subsurface salty ocean), exogenic material deposited by the Jovian magnetosphere, and irradiation-induced alteration of both the endogenically and exogenically sourced material. Using spectroscopic observations from telescopes and spacecraft, I am working to understand the irradiation processes which alter Europa's surface composition." }}
+                    {{ else if eq $category "Primordial Compositions and Solar System Formation" }}
+                        {{ $categoryDesc = "By studying the compositions of ancient and pristine surfaces throughout the solar system, we can unlock secrets about the early formation and evolution of planetary systems. These investigations help us understand the distribution of materials in the early solar nebula and how planetary systems evolved over billions of years." }}
+                    {{ end }}
+                    {{ if $categoryDesc }}
+                    <p style="color: #666; line-height: 1.5; margin-bottom: 30px;">{{ $categoryDesc }}</p>
+                    {{ end }}
+                    <div style="width: 80%; margin: 0 auto;">
                     {{ range $pages }}
                         {{ if eq .Params.category $category }}
-                        <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px;">
+                        <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px; {{ if eq (.Params.image_position | default "left") "right" }}flex-direction: row-reverse;{{ end }}">
                             {{ if .Params.image }}
-                            <div class="post-image" style="flex: 0 0 45%;">
-                                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 4px;">
+                            <div class="post-image" style="flex: 0 0 {{ .Params.image_width | default "45%" }};">
+                                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 4px;">
                             </div>
                             {{ end }}
                             <div class="post-content" style="flex: 1; display: flex; flex-direction: column;">
@@ -59,6 +69,7 @@
                         <hr>
                         {{ end }}
                     {{ end }}
+                    </div>
                 {{ end }}
                 
                 <!-- Posts without categories -->
@@ -70,11 +81,12 @@
                 {{ end }}
                 {{ if gt (len $uncategorized) 0 }}
                     <h2>Other Research</h2>
+                    <div style="width: 80%; margin: 0 auto;">
                     {{ range $uncategorized }}
-                    <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px;">
+                    <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px; {{ if eq (.Params.image_position | default "left") "right" }}flex-direction: row-reverse;{{ end }}">
                         {{ if .Params.image }}
-                        <div class="post-image" style="flex: 0 0 45%;">
-                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 4px;">
+                        <div class="post-image" style="flex: 0 0 {{ .Params.image_width | default "45%" }};">
+                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" style="width: 100%; height: auto; border-radius: 4px;">
                         </div>
                         {{ end }}
                         <div class="post-content" style="flex: 1; display: flex; flex-direction: column;">
@@ -99,6 +111,7 @@
                         </div>
                     <hr>
                     {{ end }}
+                    </div>
                 {{ end }}
 
                 <!-- Pagination -->

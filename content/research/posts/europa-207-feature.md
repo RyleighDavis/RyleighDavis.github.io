@@ -7,6 +7,15 @@ summary: "Investigating the spatial distribution of Europa's 2.07μm absorption 
 tags: ["Europa", "Spectroscopy", "VLT", "Irradiation"]
 category: "Irradiation Chemistry on Europa"
 ---
+# Europa's Mysterious 2.07 μm Absorption Feature
+
+{{<rawhtml>}}
+<figure style="float: right; width: 60%; margin: 0 0 20px 20px;">
+  <div class="image-container">
+    <img src="/img/SpectralMap_withCaption.png" alt="Paper figure containing sulfuric acid, salt, and water-ice maps of Pwyll and Manannan crater." style="width: 100%; height: auto;">
+  </div>
+</figure>
+{{</rawhtml>}}
 
 A small absorption feature near 2.07μm on Europa's trailing hemisphere has been used as evidence for the presence of endogenic magnesium chloride (MgCl₂), possibly sourced from Europa's subsurface salty ocean. While the spectrum of MgCl₂ does not have this specific absorption feature, it could be altered via irradiation on Europa's trailing hemisphere into either more complex magnesium chlorate/perchlorate salts (Ligier et al. 2016) or if combined with Io-genic sulfur, into a sulfur-bearing salt such as epsomite (MgSO₄⋅10H₂O) (Brown et al. 2013). 
 

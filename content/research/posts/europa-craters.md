@@ -2,13 +2,21 @@
 title: "Crater Chronicles: Using Europa's Youngest Craters to Measure Irradiation Timescales"
 date: 2024-01-15
 draft: false
-image: "/img/SpectralMap_withCaption.png"
+image: "/img/SpectralMap_PwyllManannan.png"
 summary: "Using Galileo/NIMS observations to understand Europa's radiolytic sulfur cycle through crater analysis, revealing that equilibrium timescales are much longer than laboratory estimates suggest."
 tags: ["Europa", "Craters", "Irradiation", "Galileo"]
 category: "Irradiation Chemistry on Europa"
 ---
 
-![Sulfuric acid, salt, and water-ice maps of Pwyll and Manannan crater](/img/SpectralMap_withCaption.png)
+# Crater Chronicles: Using Europa's Youngest Craters to Measure Irradiation Timescales
+
+{{<rawhtml>}}
+<figure style="float: right; width: 60%; margin: 0 0 20px 20px;">
+  <div class="image-container">
+    <img src="/img/SpectralMap_withCaption.png" alt="Paper figure containing sulfuric acid, salt, and water-ice maps of Pwyll and Manannan craters on Europa." style="width: 100%; height: auto;">
+  </div>
+</figure>
+{{</rawhtml>}}
 
 A classic example of irradiation-induced alteration of exogenic material on Europa's trailing hemisphere is the so-called radiolytic sulfur cycle, where Iogenic sulfur ions captured in Jupiter's magnetosphere are deposited on Europa's trailing hemisphere and subsequent irradiation produces hydrated sulfuric acid, along with a variety of potential sulfur-bearing intermediary products. Because of the intense irradiation environment on Europa's trailing hemisphere, these sulfur-bearing compounds are expected to be in radiation-induced equilibrium, with sulfuric acid continuously produced and destroyed in some steady state concentration. 
 

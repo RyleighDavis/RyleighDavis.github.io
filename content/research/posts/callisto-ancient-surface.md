@@ -6,6 +6,8 @@ image: "/img/europa.jpeg"
 summary: "Upcoming JWST observations will investigate Callisto's ancient surface composition and what it reveals about the formation of the Jovian system."
 tags: ["Callisto", "JWST", "Ancient Surface"]
 category: "Primordial Compositions and Solar System Formation"
+image_width: "40%"
+image_position: "right"
 ---
 
 Coming soon! See our accepted Cycle 3 [JWST Program](https://www.stsci.edu/jwst/science-execution/program-information?id=4687).
