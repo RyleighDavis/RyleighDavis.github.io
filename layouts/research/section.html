@@ -24,15 +24,18 @@
                 {{ end }}
                 {{ $categories = $categories | uniq }}
                 
+                {{ $site := .Site }}
                 {{ range $categories }}
                     {{ $category := . }}
-                    <h2>{{ $category }}</h2>
+                    {{ $categoryInfo := index $site.Data.categories.research_categories $category }}
+                    {{ $categoryTitle := $category }}
                     {{ $categoryDesc := "" }}
-                    {{ if eq $category "Irradiation Chemistry on Europa" }}
-                        {{ $categoryDesc = "Europa's trailing hemisphere surface composition reflects a complex interplay between endogenic material present within the recently geologically active chaos terrains and linea (possibly sourced from the subsurface salty ocean), exogenic material deposited by the Jovian magnetosphere, and irradiation-induced alteration of both the endogenically and exogenically sourced material. Using spectroscopic observations from telescopes and spacecraft, I am working to understand the irradiation processes which alter Europa's surface composition." }}
-                    {{ else if eq $category "Primordial Compositions and Solar System Formation" }}
-                        {{ $categoryDesc = "By studying the compositions of ancient and pristine surfaces throughout the solar system, we can unlock secrets about the early formation and evolution of planetary systems. These investigations help us understand the distribution of materials in the early solar nebula and how planetary systems evolved over billions of years." }}
+                    {{ if $categoryInfo }}
+                        {{ $categoryTitle = $categoryInfo.title }}
+                        {{ $categoryDesc = $categoryInfo.description }}
                     {{ end }}
+                    <!-- Debug: Category: {{ $category }}, Info: {{ $categoryInfo }}, Title: {{ $categoryTitle }} -->
+                    <h2>{{ $categoryTitle }}</h2>
                     {{ if $categoryDesc }}
                     <p style="color: #666; line-height: 1.5; margin-bottom: 30px;">{{ $categoryDesc }}</p>
                     {{ end }}

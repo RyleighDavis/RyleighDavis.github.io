@@ -1,0 +1,16 @@
+research_categories:
+  "Europa":
+    title: "Europa’s Radiation-Driven Surface Evolution"
+    order: 2
+    description: "Europa’s surface is continuously bombarded by energetic particles from Jupiter’s magnetosphere, triggering radiolysis—chemical reactions driven by irradiation. These reactions generate new compounds and alter both endogenic material, such as salts brought up from the subsurface ocean, and exogenic material, like sulfur deposited from Io. My research investigates how these radiation-driven processes chemically transform Europa’s surface over time. Using spectroscopic observations from telescopes and spacecraft, I study the spatial distribution and timescales of these alterations to better constrain the moon’s surface composition and its interaction with the Jovian environment."
+    order: 1
+  
+  "Callisto":
+    title: "Callisto's Ancient Surface"
+    description: "By studying the compositions of ancient and pristine surfaces throughout the solar system, we can unlock secrets about the early formation and evolution of planetary systems. These investigations help us understand the distribution of materials in the early solar nebula and how planetary systems evolved over billions of years."
+    order: 3
+
+  "Ice Giants":
+    title: "Reconstructing the Histories of the Ice Giant Systems through Small Satellite Observations"
+    description: "Coming soon! See our accepted Cycle 3 [JWST program](https://www.stsci.edu/jwst/science-execution/program-information?id=4645)."
+    order: 2

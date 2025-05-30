@@ -5,7 +5,7 @@ draft: false
 image: "/img/europa.jpeg"
 summary: "Using JWST to study small satellites of Uranus and Neptune to understand the formation and evolution of ice giant systems."
 tags: ["Ice Giants", "Uranus", "Neptune", "JWST", "Small Satellites"]
-category: "Primordial Compositions and Solar System Formation"
+category: "Ice Giants"
 ---
 
 Coming soon! See our accepted Cycle 3 [JWST program](https://www.stsci.edu/jwst/science-execution/program-information?id=4645).
