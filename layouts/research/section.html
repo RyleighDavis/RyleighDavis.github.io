@@ -25,8 +25,21 @@
                 {{ $categories = $categories | uniq }}
                 
                 {{ $site := .Site }}
+                <!-- Sort categories by order field -->
+                {{ $sortedCategories := slice }}
                 {{ range $categories }}
-                    {{ $category := . }}
+                    {{ $cat := . }}
+                    {{ $catInfo := index $site.Data.categories.research_categories $cat }}
+                    {{ $order := 999 }}
+                    {{ if $catInfo }}
+                        {{ $order = $catInfo.order }}
+                    {{ end }}
+                    {{ $sortedCategories = $sortedCategories | append (dict "name" $cat "order" $order) }}
+                {{ end }}
+                {{ $sortedCategories = sort $sortedCategories "order" "desc" }}
+                
+                {{ range $sortedCategories }}
+                    {{ $category := .name }}
                     {{ $categoryInfo := index $site.Data.categories.research_categories $category }}
                     {{ $categoryTitle := $category }}
                     {{ $categoryDesc := "" }}
@@ -37,7 +50,7 @@
                     <!-- Debug: Category: {{ $category }}, Info: {{ $categoryInfo }}, Title: {{ $categoryTitle }} -->
                     <h2>{{ $categoryTitle }}</h2>
                     {{ if $categoryDesc }}
-                    <p style="color: #666; line-height: 1.5; margin-bottom: 30px;">{{ $categoryDesc }}</p>
+                    <div style="color: #666; line-height: 1.5; margin-bottom: 30px;">{{ $categoryDesc | markdownify }}</div>
                     {{ end }}
                     <div style="width: 80%; margin: 0 auto;">
                     {{ range $pages }}
