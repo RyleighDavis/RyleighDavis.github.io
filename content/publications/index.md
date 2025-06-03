@@ -5,11 +5,11 @@ layout: page
 
 ## Publications
 
-1. **Davis, M.R.**, Trumbo, S.K., Brown, M.E., and Belyakov, M. (2025). ["Spectroscopic Mapping of Callisto with HST/STIS and Implications for its Surface Composition"](), The Planetary Science Journal (Accepted)
+1. **Davis, M.R.**, Trumbo, S.K., Brown, M.E., and Belyakov, M. (2025). ["Spectroscopic Mapping of Callisto with HST/STIS and Implications for its Surface Composition"](), The Planetary Science Journal (Accepted; see ["arxiv preprint"](https://arxiv.org/abs/2506.00151))
 1. Belyakov, M., **Davis, M.R.**, Milby, Z., Wong, I., and Brown, M.E. (2024). ["JWST Spectrophotometry of the Small Satellites of Uranus and Neptune"](https://iopscience.iop.org/article/10.3847/PSJ/ad3d55). The Planetary Science Journal, 5(5), 119.
 1. **Davis, M.R.** and Brown, M.E. (2024). ["Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa"](https://iopscience.iop.org/article/10.3847/PSJ/ad3944). The Planetary Science Journal, 5, 107.
 1. **Davis, M.R.**, Brown, M.E., & Trumbo, S.K. (2023). ["The Spatial Distribution of the Unidentified 2.07 μm Absorption Feature on Europa and Implications for its Origin"](https://iopscience.iop.org/article/10.3847/PSJ/aced96/meta). The Planetary Science Journal, 4(8), 148.
-1. Kunimoto, M., Vanderburg, A., Huang, C.X., **Davis, M.R.**, Affer, L., Cameron, A.C., ... & Rose, M.E. (2023). ["TOI-4010: A System of Three Large Short-period Planets with a Massive Long-period Companion"](https://iopscience.iop.org/article/10.3847/1538-3881/acd537/meta). The Astronomical Journal, 166(1), 7.
+1. Kunimoto, M., Vanderburg, A., Huang, C.X., **Davis, M.R.**, et al. (2023). ["TOI-4010: A System of Three Large Short-period Planets with a Massive Long-period Companion"](https://iopscience.iop.org/article/10.3847/1538-3881/acd537/meta). The Astronomical Journal, 166(1), 7.
 1. Trumbo, S.K., **Davis, M.R.**, Cassese, B., and Brown, M. E. (2022). ["Spectroscopic Mapping of Io’s Surface with HST/STIS: SO2 Frost, Sulfur Allotropes, and Large-scale Compositional Patterns"](https://iopscience.iop.org/article/10.3847/PSJ/aca46d/meta), The Planetary Science Journal, 3(12), 272.
 1. **Davis, M.R.**, Meier, R.M., Cooper, J.F., and Loeffler, M.J. (2021). ["The contribution of electrons to the sputter-produced O2 exosphere on Europa"](https://iopscience.iop.org/article/10.3847/2041-8213/abe415/meta) The Astrophysical Journal Letters, 908(2), L53.
 1. **Fitzpatrick (Davis), M.R.** (2020). ["Low Energy Electron Sputtering of Water Ice"](https://www.proquest.com/openview/618549210e780ba086862bb99023072e/1?pq-origsite=gscholar&cbl=18750&diss=y) (M.Sc. Thesis, Northern Arizona University).
