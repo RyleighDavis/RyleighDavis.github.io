@@ -52,7 +52,6 @@
                     {{ if $categoryDesc }}
                     <div style="color: #666; line-height: 1.5; margin-bottom: 30px;">{{ $categoryDesc | markdownify }}</div>
                     {{ end }}
-                    <div style="width: 80%; margin: 0 auto;">
                     {{ range $pages }}
                         {{ if eq .Params.category $category }}
                         <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px; {{ if eq (.Params.image_position | default "left") "right" }}flex-direction: row-reverse;{{ end }}">
@@ -85,7 +84,6 @@
                         <hr>
                         {{ end }}
                     {{ end }}
-                    </div>
                 {{ end }}
                 
                 <!-- Posts without categories -->
@@ -97,7 +95,6 @@
                 {{ end }}
                 {{ if gt (len $uncategorized) 0 }}
                     <h2>Other Research</h2>
-                    <div style="width: 80%; margin: 0 auto;">
                     {{ range $uncategorized }}
                     <div class="post-preview" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; display: flex; align-items: flex-start; gap: 20px; {{ if eq (.Params.image_position | default "left") "right" }}flex-direction: row-reverse;{{ end }}">
                         {{ if .Params.image }}
@@ -127,7 +124,6 @@
                         </div>
                     <hr>
                     {{ end }}
-                    </div>
                 {{ end }}
 
                 <!-- Pagination -->
