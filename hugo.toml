@@ -7,7 +7,10 @@ theme = 'hugo-theme-cleanwhite'
 disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
-# pagination configuration moved to [pagination] section
+
+[pagination]
+  pagerSize = 5 #frontpage pagination
+
 hasCJKLanguage = true
 
 [outputs]
