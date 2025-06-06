@@ -12,7 +12,7 @@ image_position: "left"
 
 # Callisto Isn't Boring After All: HST Spectroscopy Shows its Surface is a Complex Mix of Native and Delivered Material
 
-This page is currenlty in development. Please check again soon!
+This page is currently in development. Please check again soon! In the meantime, check out our recent paper [here](https://arxiv.org/abs/2506.00151).
 
 <!-- Callisto's ancient and heavily cratered surface is shaped by impact craters and mass wasting (e.g landslides). Unlike it's neighbors, Callisto has not been altered by active geological processes and therefore preserves important clues about the history of the Jovian system and possibly the broader solar system as well.
 
