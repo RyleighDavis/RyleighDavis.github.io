@@ -19,7 +19,7 @@
                         <a href="{{ . }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                                <span class="fa-stack-1x fa-inverse" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif; font-size: 0.8em;">🦋</span>
                             </span>
                         </a>
                     </li>
@@ -209,8 +209,15 @@
              </ul>
 		<p class="copyright text-muted">
                     Copyright &copy; {{ .Site.Title }} {{ now.Year }} {{- if .Site.Params.icp }} | {{ with .Site.Params.icp }}{{ . | markdownify }}{{ end }}{{- end}}
+                    {{ if .Site.Params.upstreamAttribution }}
                     <br>
-                    adapted from the CleanWhite Hugo Theme by Huabing
+                    <a href="https://themes.gohugo.io/hugo-theme-cleanwhite">CleanWhite Hugo Theme</a> by <a href="https://zhaohuabing.com">Huabing</a> |
+                    <iframe
+                        style="margin-left: 2px; margin-bottom:-5px;"
+                        frameborder="0" scrolling="0" width="100px" height="20px"
+                        src="https://ghbtns.com/github-btn.html?user=zhaohuabing&repo=hugo-theme-cleanwhite&type=star&count=true" >
+                    </iframe>
+                    {{ end }}
                 </p>
             </div>
         </div>

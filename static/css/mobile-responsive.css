@@ -1,5 +1,6 @@
 /* Mobile responsive improvements */
 
+
 /* On small screens, make floating images stack properly */
 @media (max-width: 768px) {
     /* Reset floating images on mobile */
