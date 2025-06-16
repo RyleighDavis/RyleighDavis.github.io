@@ -4,13 +4,16 @@ description: "Planetary Science Ph.D. Candidate at Caltech studying icy moons an
 header_image: "img/RyleighTelescope.jpg"
 ---
 
-# Welcome
+# Welcome!
 
 {{< rawhtml >}}
 <img src="/img/headshot.jpg" alt="Headshot of Ryleigh Davis" style="float: right; margin-left: 20px; margin-bottom: 20px; width: 35%; max-width: 350px;" />
 {{< /rawhtml >}}
 
-I am Ph.D. candidate in Planetary Science at Caltech, where I study the compositions and evolution of icy moons throughout the solar system. I use ground- and space-based telescope spectroscopy, ranging from UV through mid-infrared wavelengths, to explore these worlds.
+I am planetary scientist and Ph.D. candidate at Caltech, where I study the surfaces of icy moons using spacecraft and telescope spectroscopy across UV to mid-infrared wavelengths. My research focuses on understanding the surface compositions and evolution of icy satellites - like Europa, Callisto, and the small inner moons of Uranus and Neptune - and what these surfaces can tell us about these unique worlds and how they formed. 
+
+<!-- I have used spectroscopy to investigate how processes like irradiation, impact excavation, and the delivery of exogenic material have shaped the surfaces of these moons over time -->
+
 
 <!-- ## Current Research Focus
 
