@@ -1,0 +1,35 @@
+/* Mobile responsive improvements */
+
+/* On small screens, make floating images stack properly */
+@media (max-width: 768px) {
+    /* Reset floating images on mobile */
+    img[style*="float"] {
+        float: none !important;
+        display: block !important;
+        margin: 20px auto !important;
+        width: 70% !important;
+        max-width: 250px !important;
+    }
+    
+    /* Ensure proper spacing on mobile */
+    .post-container {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    
+    /* Better image sizing for very small screens */
+    @media (max-width: 480px) {
+        img[style*="float"] {
+            width: 80% !important;
+            max-width: 200px !important;
+        }
+    }
+}
+
+/* Medium screens - tablets */
+@media (min-width: 769px) and (max-width: 991px) {
+    img[style*="float"] {
+        width: 40% !important;
+        max-width: 300px !important;
+    }
+}
