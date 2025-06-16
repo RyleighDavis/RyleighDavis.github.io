@@ -6,6 +6,8 @@ header_image: "img/RyleighTelescope.jpg"
 
 # Welcome
 
+![Ryleigh Davis](/img/headshot.jpg)
+
 I am Ph.D. candidate in Planetary Science at Caltech, where I study the compositions and evolution of icy moons throughout the solar system. I use ground- and space-based telescope spectroscopy, ranging from UV through mid-infrared wavelengths, to explore these worlds.
 
 <!-- ## Current Research Focus
