@@ -1,5 +1,5 @@
 {{ define "header" }}
-<!-- Post Header -->
+<!-- Post Header with Category-Specific Banner Images -->
 <style type="text/css">
     header.intro-header {
         background-image: url('{{ if .Params.category }}{{ if eq .Params.category "Europa" }}{{ "/img/europa.jpeg" | relURL }}{{ else if eq .Params.category "Callisto" }}{{ "/img/callisto_SSIcolor.jpg" | relURL }}{{ else if eq .Params.category "Ice Giants" }}{{ "/img/neptune_nircam.jpg" | relURL }}{{ else }}{{ .Site.Params.header_image | relURL }}{{ end }}{{ else }}{{ .Site.Params.header_image | relURL }}{{ end }}')
