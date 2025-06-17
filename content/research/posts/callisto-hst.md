@@ -1,6 +1,6 @@
 ---
 title: "Callisto Isn't Boring After All: HST Spectrosocpy Shows its Surface is a Complex Mix of Native and Delivered Material"
-date: 2025-05-30
+date: 2025-06-15
 draft: false
 image: "/img/callistoHST.png"
 summary: "Callisto's anient, heavily cratered surface preserves a surprisingly complex record of its past. By mapping its surface in ultraviolet and visible light, we found evidence for a chemically diverse mix of native (endogenic) and externally delivered (exogenic) dark material, shaped by radiation and ancient impacts. These findings challenge long-held assumptions about Callisto’s composition and shed new light on the evolution of Jupiter’s outermost moon."
