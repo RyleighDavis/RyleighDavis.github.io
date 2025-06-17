@@ -5,7 +5,9 @@ layout: page
 
 ## Publications
 
-1. **Davis, M.R.**, Trumbo, S.K., Brown, M.E., and Belyakov, M. (2025). ["Spectroscopic Mapping of Callisto with HST/STIS and Implications for its Surface Composition"](), The Planetary Science Journal (Accepted; see [arxiv preprint](https://arxiv.org/abs/2506.00151))
+1. **Davis, M.R.**, Belyakov, M.E., Wong, I., and Brown, M.E. (2025). "JWST Reveals Phyllosilicates on the Small Inner Moons of Neptune" (in prep)
+1. Brown, M.E., Trumbo S.K., Belyakov, M., **Davis, M.R.**, and Pandya, A. (2025). "A JWST study of CO2 on the satellites of Saturn", The Planetary Science Journal (in review)
+1. **Davis, M.R.**, Trumbo, S.K., Brown, M.E., and Belyakov, M. (2025). ["Spectroscopic Mapping of Callisto with HST/STIS and Implications for its Surface Composition"](), The Planetary Science Journal (accepted; see [arxiv preprint](https://arxiv.org/abs/2506.00151))
 1. Belyakov, M., **Davis, M.R.**, Milby, Z., Wong, I., and Brown, M.E. (2024). ["JWST Spectrophotometry of the Small Satellites of Uranus and Neptune"](https://iopscience.iop.org/article/10.3847/PSJ/ad3d55). The Planetary Science Journal, 5(5), 119.
 1. **Davis, M.R.** and Brown, M.E. (2024). ["Pwyll and Manannán Craters as a Laboratory for Constraining Irradiation Timescales on Europa"](https://iopscience.iop.org/article/10.3847/PSJ/ad3944). The Planetary Science Journal, 5, 107.
 1. **Davis, M.R.**, Brown, M.E., & Trumbo, S.K. (2023). ["The Spatial Distribution of the Unidentified 2.07 μm Absorption Feature on Europa and Implications for its Origin"](https://iopscience.iop.org/article/10.3847/PSJ/aced96/meta). The Planetary Science Journal, 4(8), 148.
