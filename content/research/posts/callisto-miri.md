@@ -1,6 +1,6 @@
 ---
 title: "Constraining the Composition and Thermal Histories of Silicate Minerals on Callisto"
-date: 2024-02-01
+date: 2025-02-01
 draft: false
 image: "/img/callisto_SSIcolor.jpg"
 summary: "Coming soon! We will use our recent JWST/MIRI observations to investigate Callisto's ancient surface composition and what it reveals about the formation of the Jovian system."
