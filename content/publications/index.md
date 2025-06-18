@@ -5,7 +5,7 @@ layout: page
 
 ## Publications
 
-1. **Davis, M.R.**, Belyakov, M.E., Wong, I., and Brown, M.E. (2025). "JWST Reveals Phyllosilicates on the Small Inner Moons of Neptune" (in prep)
+1. **Davis, M.R.**, Belyakov, M.E., Wong, I., and Brown, M.E. (2025). "From the Inside Out: The Inner Moons of Neptune Reveal the Interior Composition of Icy Satellites" (in prep)
 1. Brown, M.E., Trumbo S.K., Belyakov, M., **Davis, M.R.**, and Pandya, A. (2025). "A JWST study of CO2 on the satellites of Saturn", The Planetary Science Journal (in review)
 1. **Davis, M.R.**, Trumbo, S.K., Brown, M.E., and Belyakov, M. (2025). ["Spectroscopic Mapping of Callisto with HST/STIS and Implications for its Surface Composition"](), The Planetary Science Journal (accepted; see [arxiv preprint](https://arxiv.org/abs/2506.00151))
 1. Belyakov, M., **Davis, M.R.**, Milby, Z., Wong, I., and Brown, M.E. (2024). ["JWST Spectrophotometry of the Small Satellites of Uranus and Neptune"](https://iopscience.iop.org/article/10.3847/PSJ/ad3d55). The Planetary Science Journal, 5(5), 119.
@@ -16,4 +16,4 @@ layout: page
 1. **Davis, M.R.**, Meier, R.M., Cooper, J.F., and Loeffler, M.J. (2021). ["The contribution of electrons to the sputter-produced O2 exosphere on Europa"](https://iopscience.iop.org/article/10.3847/2041-8213/abe415/meta) The Astrophysical Journal Letters, 908(2), L53.
 1. **Fitzpatrick (Davis), M.R.** (2020). ["Low Energy Electron Sputtering of Water Ice"](https://www.proquest.com/openview/618549210e780ba086862bb99023072e/1?pq-origsite=gscholar&cbl=18750&diss=y) (M.Sc. Thesis, Northern Arizona University).
 1. Zellem, R.T., Griffith, C.A., Pearson, K.A., Turner, J.D., Henry, G.W., Williamson, M.H., **Fitzpatrick (Davis), M.R.**, Teske, J.K., and Biddle, L.I. (2015). ["XO-2b: A hot jupiter with a variable host star that potentially affects its measured transit depth"](https://iopscience.iop.org/article/10.1088/0004-637X/810/1/11/meta), The Astrophysical Journal, 810(1), 11.
-{reversed="reversed"}
+{reversed="reversed"} 
