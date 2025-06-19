@@ -44,7 +44,6 @@ The composition of the dark material isn’t uniform, with a distribution that v
 Surprisingly, despite years of speculation, we found very little spectral evidence for SO₂ or other sulfur-bearing compounds. Instead, the UV-visible spectrum seems to point more toward carbon-rich, silicate, and possibly salt-bearing materials. This conclusion agrees with other recent analyses of JWST observations of Callisto (Cartwright et al. 2024) and JUNO observations of neighboring Ganymede (Tosi et al. 2024).
 
 
-
 ## Why It Matters
 
 Callisto may be geologically quiet, but its surface holds vital clues about the Jovian system’s history. It also tells us something about what happens to planetary surfaces when they’re exposed to space weathering, radiation, and exogenic material for billions of years. The detection of distinct compositions in ancient impact basins suggests that we’re seeing materials from different depths or time periods — potentially even primordial crustal material preserved in the subsurface. The spatial variations in the UV and visible absorption features give us insight into how exogenic and endogenic materials have mixed over time as well as how radiation processes have modified Callisto's surface. Understanding what’s on Callisto's surface can help us piece together not just its own history, but the broader evolution of the Jovian system. 
