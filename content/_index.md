@@ -12,7 +12,7 @@ header_image: "img/RyleighTelescope.jpg"
 
 I am planetary scientist and Ph.D. candidate at Caltech, where I work with Dr. [Mike Brown](https://mikebrown.caltech.edu/) to study the surfaces of icy moons using spacecraft and telescope spectroscopy across UV to mid-infrared wavelengths. My research focuses on understanding the surface compositions and evolution of icy satellites - like Europa, Callisto, and the small inner moons of Uranus and Neptune - and what these surfaces can tell us about these unique worlds and how they formed. 
 
-I will be graduating in early 2026 and aim to continue to pursue research in an academic or research role.
+<!-- I will be graduating in early 2026 and aim to continue to pursue research in an academic or research role. -->
 
 <!-- I have used spectroscopy to investigate how processes like irradiation, impact excavation, and the delivery of exogenic material have shaped the surfaces of these moons over time -->
 
