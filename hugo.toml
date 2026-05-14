@@ -9,7 +9,7 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 
 [pagination]
-  pagerSize = 5 #frontpage pagination
+  pagerSize = 20 #frontpage pagination
 
 hasCJKLanguage = true
 
