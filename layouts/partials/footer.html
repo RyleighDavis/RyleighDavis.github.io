@@ -196,6 +196,26 @@
                 </a>
             </li>
            {{ end }}
+                    {{ with .Site.Params.social.googlescholar }}
+                    <li>
+                        <a target="_blank" href="{{ . }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="ai ai-google-scholar fa-stack-1x fa-inverse" style="line-height: 2em;"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {{ end }}
+                    {{ with .Site.Params.social.orcid }}
+                    <li>
+                        <a target="_blank" href="{{ . }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fas fa-circle fa-stack-2x"></i>
+                                <i class="ai ai-orcid fa-stack-1x fa-inverse" style="line-height: 2em;"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {{ end }}
            {{ if .Site.Params.social.rss }}
                    <li>
                        <a href='{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}' rel="alternate" type="application/rss+xml" title="{{ .Site.Title | default "" }}" >
@@ -220,6 +240,8 @@
 </footer>
 
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 <!-- async load function -->
 <script>
