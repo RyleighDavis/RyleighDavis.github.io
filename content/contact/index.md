@@ -5,8 +5,8 @@ layout: page
 
 # Contact Me
 
-email: rdavis@caltech.edu 
+email: rdavis1@ucsd.edu
 
-Caltech Division of Geological and Planetary Sciences \
-South Mudd Laboratories, Rm 158 \
-MC 150-21
+UC San Diego \
+Department of Astronomy & Astrophysics \
+SERF 339

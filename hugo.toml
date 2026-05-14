@@ -20,8 +20,8 @@ home = ["HTML", "RSS"]
   header_image = "img/europa.jpeg"
   SEOTitle = "Ryleigh Davis, Planetary Scientist"
   description = "Personal & Professional website of Ryleigh Davis, Planetary Scientist."
-  keyword = "Ryleigh Davis, Planetary Science, Astronomy, Caltech, Solar System, Europa, Callisto, JWST"
-  slogan = "Planetary Science Ph.D. Candidate"
+  keyword = "Ryleigh Davis, Planetary Science, Astronomy, UCSD, Solar System, Europa, Callisto, JWST, Icy Moons"
+  slogan = "Postdoctoral Researcher in Planetary Science"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
@@ -73,7 +73,7 @@ home = ["HTML", "RSS"]
 
   [params.social]
   rss            = false 
-  email          = "rdavis@caltech.edu"
+  email          = "rdavis1@ucsd.edu"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   twitter        = "https://bsky.app/profile/import-astrory.bsky.social"
