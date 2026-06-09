@@ -5,9 +5,9 @@ layout: page
 
 ## Publications
 
-1. **Davis, M.R.**, Belyakov, M.E., Wong, I., Milby, Z., and Brown, M.E. (2025). "Triton’s Wake: Neptune’s Shattered Inner Moons Reveal Icy Body Interior Compositions". Science Advances (in review)
-1. Belyakov, M.E., **Davis, M.R.**, Wong, I., Batygin, K., and Brown, M.E. (2025). "Nereid as a Regular Satellite of Neptune". Science Advances (in press)
-1. Brown, M.E., Belyakov, M., Chandra, S., **Davis, M.R.**, McDowell, M., Pandya, A., Trinh, K.T., and Trumbo, K. (2025). "Such stuff as moons are made on: Deuterated water and the formation of the satellites of Uranus". PNAS (in press)
+1. **Davis, M.R.**, Belyakov, M.E., Wong, I., Milby, Z., and Brown, M.E. (2026). "Neptune’s Inner Moons and Rings Are Exposed Icy Body Interiors". Science Advances (in press)
+1. Belyakov, M.E., **Davis, M.R.**, Wong, I., Batygin, K., and Brown, M.E. (2026). ["Nereid as a Regular Satellite of Neptune"](https://www.science.org/doi/10.1126/sciadv.aeb1429). Science Advances, 12, 21.
+1. Brown, M.E., Belyakov, M., Chandra, S., **Davis, M.R.**, McDowell, M., Pandya, A., Trinh, K.T., and Trumbo, K. (2026). "Deuterated water and the formation of the satellites of Uranus". PNAS (in press)
 1. Belyakov, M., Wong, I., Bolin, B.T., **Davis, M.R.**, Bromley, S.J., Lisse, C.M., Brown, M.E. (2026). [“The Volatile Inventory of 3I/ATLAS as seen with JWST/MIRI”](https://iopscience.iop.org/article/10.3847/2041-8213/ae5700). ApJL
 1. Brown, M.E, Trumbo, S.K.,**Davis, M.R.**, and Chandra, S. (2025). ["Deuterated water on the satellites of Saturn"](https://iopscience.iop.org/article/10.3847/PSJ/adfbf5). The Planetary Science Journal 6, 229.
 1. Brown, M.E., Trumbo, S.K., Belyakov, M., **Davis, M.R.**, and Pandya, A. (2025). ["A JWST study of CO2 on the satellites of Saturn"](https://iopscience.iop.org/article/10.3847/PSJ/ade807), The Planetary Science Journal, 6, 180.
