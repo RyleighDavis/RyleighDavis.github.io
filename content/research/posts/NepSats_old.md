@@ -1,7 +1,7 @@
 ---
 title: "JWST Reveals Phyllosilicates on the Small Inner Moons of Neptune"
 date: 2026-05-14
-draft: false
+draft: true
 image: "/img/neptune_nircam.jpg"
 summary: "Using JWST/NIRSpec, we identified aqueously altered phyllosilicates on Neptune's small inner moons, suggesting they reaccreted from the fragments of larger differentiated bodies shattered when Triton was captured. Our paper is currently under review — in the meantime, watch the Caltech Everhart Lecture below for an overview of this work."
 tags: ["Ice Giants", "Neptune", "JWST", "Small Satellites"]

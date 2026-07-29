@@ -1,5 +1,32 @@
 /* Mobile responsive improvements */
 
+/* Distinguish figure captions from body text in blog posts */
+.post-container figure {
+    margin: 20px 0;
+    text-align: center;
+}
+.post-container figure img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: 1.5em auto 0;
+}
+.post-container figcaption p {
+    margin: 8px 0 0 !important;
+    font-size: 0.85em !important;
+    line-height: 1.4 !important;
+    color: #777 !important;
+    font-style: italic !important;
+}
+
+/* Allow per-image width via the figure shortcode's "width" param, e.g.
+   {{< figure src="..." width="60%" caption="..." >}} */
+.post-container .box {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 /* On small screens, make floating images stack properly */
 @media (max-width: 768px) {
@@ -17,7 +44,12 @@
         padding-left: 15px !important;
         padding-right: 15px !important;
     }
-    
+
+    /* Figures always go full width on mobile, regardless of a desktop "width" param */
+    .post-container .box {
+        max-width: 100% !important;
+    }
+
     /* Better image sizing for very small screens */
     @media (max-width: 480px) {
         img[style*="float"] {
