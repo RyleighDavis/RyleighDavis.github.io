@@ -110,7 +110,7 @@ Stay tuned for more upcoming results from this JWST program!
 "Neptune's Inner Moons and Rings Are Exposed Icy Body Interiors."
 *Science Advances*. [https://doi.org/10.1126/sciadv.aeb1437](https://doi.org/10.1126/sciadv.aeb1437)
 
-**Companion paper:** Belyakov, M., Davis, M.R., Wong, I., Batygin, K., and
+**Nereid paper:** Belyakov, M., Davis, M.R., Wong, I., Batygin, K., and
 Brown, M.E. (2026). "Nereid as a Regular Satellite of Neptune."
 *Science Advances*, 12(21), eaeb1429.
 [https://doi.org/10.1126/sciadv.aeb1429](https://doi.org/10.1126/sciadv.aeb1429)
