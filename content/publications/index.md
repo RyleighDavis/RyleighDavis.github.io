@@ -5,7 +5,8 @@ layout: page
 
 ## Publications
 
-1. **Davis, M.R.**, Belyakov, M.E., Wong, I., Milby, Z., and Brown, M.E. (2026). "Neptune’s Inner Moons and Rings Are Exposed Icy Body Interiors". Science Advances (in press)
+1. **Davis, M.R.**, Belyakov, M.E., Wong, I., Milby, Z., and Brown, M.E. (2026). ["Neptune’s Inner Moons and Rings Are Exposed Icy Body Interiors"](https://www.science.org/doi/10.1126/sciadv.aeb1437). Science Advances.
+1. Belyakov, M., Wong, I., Lisse, C.M., **Davis, M.R.**, Bolin, B.T., Martin, A., Pontoppidan, K.M., Blake, G.A., Chen, C., and Brown, M.E. (2026). ["The Dust Mineralogy of Interstellar Comet 3I/ATLAS from JWST/MIRI Observations"](https://arxiv.org/abs/2606.27535). ApJL (submitted).
 1. Belyakov, M.E., **Davis, M.R.**, Wong, I., Batygin, K., and Brown, M.E. (2026). ["Nereid as a Regular Satellite of Neptune"](https://www.science.org/doi/10.1126/sciadv.aeb1429). Science Advances, 12, 21.
 1. Brown, M.E., Belyakov, M., Chandra, S., **Davis, M.R.**, McDowell, M., Pandya, A., Trinh, K.T., and Trumbo, K. (2026). ["Deuterated water and the formation of the satellites of Uranus"](https://www.pnas.org/doi/10.1073/pnas.2519276123). PNAS, 123, 27.
 1. Belyakov, M., Wong, I., Bolin, B.T., **Davis, M.R.**, Bromley, S.J., Lisse, C.M., Brown, M.E. (2026). [“The Volatile Inventory of 3I/ATLAS as seen with JWST/MIRI”](https://iopscience.iop.org/article/10.3847/2041-8213/ae5700). ApJL
