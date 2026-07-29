@@ -1,15 +1,49 @@
 research_categories:
   "Europa":
     title: "Europa’s Radiation-Driven Surface Evolution"
-    description: "Europa’s surface is continuously bombarded by energetic particles from Jupiter’s magnetosphere, triggering radiolysis—chemical reactions driven by irradiation. These reactions generate new compounds and alter both endogenic material, such as salts brought up from the subsurface ocean, and exogenic material, like sulfur deposited from Io. My research investigates how these radiation-driven processes chemically transform Europa’s surface over time. Using spectroscopic observations from telescopes and spacecraft, I study the spatial distribution and timescales of these alterations to better constrain the moon’s surface composition and its interaction with the Jovian environment."
+    description: >-
+      Europa’s surface is continuously bombarded by energetic particles from
+      Jupiter’s magnetosphere, triggering radiolysis—chemical reactions driven
+      by irradiation. These reactions generate new compounds and alter both
+      endogenic material, such as salts brought up from the subsurface ocean,
+      and exogenic material, like sulfur deposited from Io. My research
+      investigates how these radiation-driven processes chemically transform
+      Europa’s surface over time. Using spectroscopic observations from
+      telescopes and spacecraft, I study the spatial distribution and
+      timescales of these alterations to better constrain the moon’s surface
+      composition and its interaction with the Jovian environment.
     order: 1
-  
+
   "Callisto":
     title: "Callisto’s Ancient Surface"
-    description: "Callisto’s heavily cratered, ancient surface may seem inert at first glance, but its dark material reveals a rich history shaped by impacts, irradiation, and the accumulation of exogenic debris. My research focuses on deciphering the composition and origin of this material by integrating spectroscopic observations across ultraviolet to mid-infrared wavelengths. Newly obtained thermal emission spectra from our Cycle 3 [JWST/MIRI](https://www.stsci.edu/jwst/science-execution/program-information?id=4687) program offer a unique opportunity to identify specific silicate minerals, estimate their Fe/Mg content, and investigate Callisto’s thermal evolution. By combining these data with UV and visible spectra from HST, we aim to determine whether Callisto retains primitive material from the early Jovian system or if its surface has been extensively modified by external processes over time."
+    description: >-
+      Callisto’s heavily cratered, ancient surface may seem inert at first
+      glance, but its dark material reveals a rich history shaped by
+      impacts, irradiation, and the accumulation of exogenic debris. My
+      research focuses on deciphering the composition and origin of this
+      material by integrating spectroscopic observations across ultraviolet
+      to mid-infrared wavelengths. Newly obtained thermal emission spectra
+      from our Cycle 3
+      [JWST/MIRI](https://www.stsci.edu/jwst/science-execution/program-information?id=4687)
+      program offer a unique opportunity to identify specific silicate
+      minerals, estimate their Fe/Mg content, and investigate Callisto’s
+      thermal evolution. By combining these data with UV and visible spectra
+      from HST, we aim to determine whether Callisto retains primitive
+      material from the early Jovian system or if its surface has been
+      extensively modified by external processes over time.
     order: 2
 
   "Ice Giants":
     title: "Reconstructing the Histories of the Ice Giant Systems through Small Satellite Observations"
-    description: "The ice giant systems of Uranus and Neptune remain among the least understood planetary systems in our solar system. Their small inner satellites and rings may preserve crucial information about the formation and evolutionary history of these distant worlds. Using the unprecedented infrared capabilities of the James Webb Space Telescope, we are conducting detailed spectroscopic observations of these small satellites to unlock their secrets. See our Cycle 3 [JWST program](https://www.stsci.edu/jwst/science-execution/program-information?id=4645) for more info."
+    description: >-
+      The ice giant systems of Uranus and Neptune remain among the least 
+      understood planetary systems in our solar system. Their small inner 
+      satellites, rings, and irregular moons preserve crucial information 
+      about the formation and evolutionary histories of these distant worlds
+       — and JWST is finally letting us read that record. As part of our 
+       Cycle 3 [JWST program](https://www.stsci.edu/jwst/science-execution/program-information?id=4645), 
+       we are conducting the first detailed near-infrared spectroscopic survey of the small moons 
+       and rings of both Uranus and Neptune, including their irregular satellites and Miranda. 
+       These data have already revealed unexpected compositional signatures that are reshaping 
+       our understanding of how these systems formed and evolved. See below for more.
     order: 3
