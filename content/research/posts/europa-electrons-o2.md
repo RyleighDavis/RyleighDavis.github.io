@@ -7,7 +7,7 @@ summary: "Laboratory measurements of electron-induced sputtering of water ice sh
 tags: ["Europa", "Exosphere", "Laboratory", "Irradiation"]
 category: "Europa"
 image_width: "40%"
-image_position: "right"
+image_position: "left"
 ---
 
 Europa maintains a thin oxygen exosphere produced when energetic particles from Jupiter's magnetosphere bombard its icy surface — a process called sputtering. While ion bombardment had long been considered the dominant driver, the role of electrons was poorly constrained.

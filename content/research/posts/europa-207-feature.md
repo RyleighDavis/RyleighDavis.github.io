@@ -2,11 +2,11 @@
 title: "Rethinking Europa’s 2.07 μm Absorption: Evidence Against a Subsurface Ocean Link"
 date: 2023-08-15
 draft: false
-image: "/img/europa.jpeg"
+image: "/img/europa_2.07.jpg"
 summary: "We investigated the spatial distribution of Europa's 2.07μm absorption feature using VLT/SINFONI data. Our results challenge the idea that this feature comes from ocean-derived magnesium salts, instead suggesting it is most likely a byproduct of surface irradiation and the so-called radiolytic sulfur cycle. "
 tags: ["Europa", "Spectroscopy", "VLT", "Irradiation"]
 category: "Europa"
-image_width: "50%"
+image_width: "35%"
 image_position: "right"
 ---
 # Rethinking Europa’s 2.07 μm Absorption: Evidence Against a Subsurface Ocean Link

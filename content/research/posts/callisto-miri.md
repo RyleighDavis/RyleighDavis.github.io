@@ -1,5 +1,5 @@
 ---
-title: "Constraining the Composition and Thermal Histories of Silicate Minerals on Callisto"
+title: "Coming Soon: Constraining the Composition and Thermal Histories of Silicate Minerals on Callisto"
 date: 2026-05-14
 draft: false
 image: "/img/callisto_SSIcolor.jpg"
